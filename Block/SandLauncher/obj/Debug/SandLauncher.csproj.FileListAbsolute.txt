@@ -1,0 +1,14 @@
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\obj\Debug\SandLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\obj\Debug\SandLauncher.MainForm.resources
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\obj\Debug\SandLauncher.csproj.GenerateResource.Cache
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\bin\Debug\SandLauncher.exe
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\bin\Debug\SandLauncher.pdb
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\obj\Debug\SandLauncher.exe
+C:\Users\Sammy\Documents\SharpDevelop Projects\SandLauncher\SandLauncher\obj\Debug\SandLauncher.pdb
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\bin\Debug\SandLauncher.exe
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\bin\Debug\SandLauncher.pdb
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.MainForm.resources
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.csproj.GenerateResource.Cache
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.exe
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\bin\Debug\Block.exe
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\bin\Debug\Block.pdb
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\Block.csprojResolveAssemblyReference.cache
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\SandLauncher.MainForm.resources
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\Block.csproj.GenerateResource.Cache
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\Block.exe
+C:\Users\Sammy\Dropbox\SandLauncher\SandLauncher\obj\Debug\Block.pdb
